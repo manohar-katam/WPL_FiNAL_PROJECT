@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BiddingProject" />
+        <module name="BiddingProject (1)" />
+        <module name="BiddingProject (2)" />
+        <module name="BiddingProjectM" />
+        <module name="BiddingProjectW" />
+        <module name="BiddingProjectWeb" />
+        <module name="frontend" />
+        <module name="WishProjectFront" />
+        <module name="WishProjectMicro" />
+        <module name="WishProjectWeb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BiddingProject" target="1.6" />
+      <module name="BiddingProject (1)" target="1.6" />
+      <module name="BiddingProject (2)" target="1.6" />
+      <module name="BiddingProjectM" target="1.6" />
+      <module name="BiddingProjectW" target="1.6" />
+      <module name="BiddingProjectWeb" target="1.6" />
+      <module name="frontend" target="1.6" />
+      <module name="WishProjectFront" target="1.6" />
+      <module name="WishProjectMicro" target="1.6" />
+      <module name="WishProjectWeb" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

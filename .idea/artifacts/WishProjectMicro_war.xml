@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WishProjectMicro:war">
+    <output-path>$PROJECT_DIR$/wishMicroServices/target</output-path>
+    <root id="archive" name="GiftRegistryMicro-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WishProjectMicro:war exploded" />
+    </root>
+  </artifact>
+</component>

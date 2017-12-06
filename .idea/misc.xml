@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/wishFrontEnd" />
+    <file type="web" url="file://$PROJECT_DIR$/wishMicroServices" />
+    <file type="web" url="file://$PROJECT_DIR$/wishWebServices" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/biddingFrontEndWPLMain/pom.xml" />
+        <option value="$PROJECT_DIR$/BiddingProjectMicroServices/pom.xml" />
+        <option value="$PROJECT_DIR$/bidding_project/pom.xml" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/pom.xml" />
+        <option value="$PROJECT_DIR$/wishMicroServices/pom.xml" />
+        <option value="$PROJECT_DIR$/wishWebServices/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

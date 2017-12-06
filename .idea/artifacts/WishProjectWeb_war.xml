@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WishProjectWeb:war">
+    <output-path>$PROJECT_DIR$/wishWebServices/target</output-path>
+    <root id="archive" name="GiftRegistryWeb-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WishProjectWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

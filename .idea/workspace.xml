@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="WishProjectFront:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9938129-04fa-4d05-b97f-34826317f1da" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/BiddingProjectMicroServices/target/" />
+    <ignored path="$PROJECT_DIR$/biddingFrontEndWPLMain/target/" />
+    <ignored path="$PROJECT_DIR$/bidding_project/target/" />
+    <ignored path="$PROJECT_DIR$/wishFrontEnd/target/" />
+    <ignored path="$PROJECT_DIR$/wishWebServices/target/" />
+    <ignored path="$PROJECT_DIR$/wishMicroServices/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="products.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/products.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+              <folding>
+                <marker date="1512510647000" expanded="false" signature="6710:6722" ph="..." />
+                <marker date="1512510647000" expanded="false" signature="6861:6895" ph="..." />
+                <marker date="1512510647000" expanded="false" signature="7056:7076" ph="..." />
+                <marker date="1512510647000" expanded="false" signature="7795:7815" ph="..." />
+                <marker date="1512510647000" expanded="false" signature="8578:8598" ph="..." />
+                <marker date="1512510647000" expanded="false" signature="9793:9813" ph="..." />
+                <marker date="1512510647000" expanded="false" signature="10944:10978" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add-inventory.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/add-inventory.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistryController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/RegistryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-156">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistryServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding>
+                <element signature="e#979#980#0" expanded="true" />
+                <element signature="e#1034#1035#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistryDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+              <folding>
+                <marker date="1512498673000" expanded="true" signature="1156:1213" ph="SELECT * FRO... Registry" />
+                <marker date="1512498673000" expanded="true" signature="1714:1795" ph="INSERT INTO REGISTRY_ITEM... " />
+                <marker date="1512498673000" expanded="true" signature="2221:2270" ph="INSERT INTO SHARED... " />
+                <marker date="1512498673000" expanded="true" signature="2702:2807" ph="SELECT r.id,... REGISTRY" />
+                <marker date="1512498673000" expanded="true" signature="3423:3676" ph="SELECT r.id,... REGISTRY_ITEM" />
+                <marker date="1512498673000" expanded="true" signature="4299:4626" ph="SELECT r.id,... REGISTRY" />
+                <marker date="1512498673000" expanded="true" signature="5253:5506" ph="SELECT r.id,... REGISTRY_ITEM" />
+                <marker date="1512498673000" expanded="true" signature="6601:6854" ph="SELECT r.id,... REGISTRY_ITEM" />
+                <marker date="1512498673000" expanded="true" signature="7443:7492" ph="UPDATE REGIS... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cart</find>
+      <find>jackson</find>
+      <find>jacks</find>
+      <find>jackd</find>
+      <find>assign</find>
+      <find>jquery</find>
+      <find>jquer</find>
+      <find>crea</find>
+      <find>shared</find>
+      <find>saveUsers</find>
+      <find>registrycart</find>
+      <find>billing</find>
+      <find>biddin</find>
+      <find>bidding</find>
+      <find>getUsers</find>
+      <find>getus</find>
+      <find>getuse</find>
+      <find>addp</find>
+      <find>viewre</find>
+      <find>produc</find>
+      <find>producregiregis</find>
+      <find>products</find>
+      <find>queryforli</find>
+      <find>getu</find>
+      <find>user</find>
+      <find>us</find>
+      <find>regi</find>
+      <find>getusers</find>
+      <find>users</find>
+      <find>item</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/InventoryModel.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Login.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/LoginBean.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Product.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/ProductModel.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistrationBean.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Registry.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryItem.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryListModel.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryModel.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Response.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/User.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/UserListModel.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/UserModel.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/utils/EncryptionUtils.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/utils/SendMail.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/LoginDaoImpl.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDaoImpl.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/utils/MemCacheUtils.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/userList.jsp" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/UserInfoController.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/UserService.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/UserInfoController.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/UserService.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/registryCart.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/user-profile.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/edit-user-profile.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Filter.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/Route.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/Route.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/Route.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/SearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/SearchDao.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/SearchDaoImpl.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/SearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_admin-header.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_user-header.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/products.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FrontEnd" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FrontEnd" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MicroServices" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MicroServices" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="WebServices" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="WebServices" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
+              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
+              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
+              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+              <item name="webapp" type="cbb8eebc:String" user="webapp" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
+              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+              <item name="webapp" type="cbb8eebc:String" user="webapp" />
+              <item name="WEB-INF" type="cbb8eebc:String" user="WEB-INF" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
+              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+              <item name="webapp" type="cbb8eebc:String" user="webapp" />
+              <item name="WEB-INF" type="cbb8eebc:String" user="WEB-INF" />
+              <item name="views/jsp" type="cbb8eebc:String" user="views/jsp" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WPL_FiNAL_PROJECT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WPL_FiNAL_PROJECT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WPL_FiNAL_PROJECT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WPL_FiNAL_PROJECT" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="registrycontroller&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java&#10;registrycontr&#9;PSI&#9;JAVA://com.wpl.gift.controller.RegistryController&#10;user&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/userList.jsp&#10;registry&#9;PSI&#9;JAVA://com.wpl.gift.controller.RegistryController&#10;userli&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/userList.jsp&#10;userinfo&#9;PSI&#9;JAVA://com.wpl.gift.controller.UserInfoController&#10;usercontr&#9;PSI&#9;JAVA://com.wpl.gift.controller.UserInfoController&#10;registrycont&#9;PSI&#9;JAVA://com.wpl.gift.controller.RegistryController&#10;userlist&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/userList.jsp&#10;usercon&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/java/com/wpl/gift/controller/UserInfoController.java&#10;registryc&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java&#10;adminh&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_admin-header.jsp&#10;userheader&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_user-header.jsp&#10;searchcontr&#9;PSI&#9;JAVA://com.wpl.gift.controller.SearchController&#10;products&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/products.jsp&#10;produc&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/products.jsp&#10;product&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/products.jsp&#10;addinven&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/add-inventory.jsp&#10;registry dao&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java&#10;userinf&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/java/com/wpl/gift/controller/UserInfoController.java&#10;userprof&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/user-profile.jsp&#10;userp&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/edit-user-profile.jsp&#10;userhead&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_user-header.jsp&#10;registrycart&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/registryCart.jsp&#10;viewin&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-inventory.jsp&#10;registrycon&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java&#10;index&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/index.jsp&#10;Route&#9;PSI&#9;JAVA://com.wpl.gift.common.Route&#10;userhome&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/views/jsp/user-home-page.jsp&#10;userhom&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/views/jsp/user-home-page.jsp&#10;searchda&#9;PSI&#9;JAVA://com.wpl.bidding.dao.SearchDaoImpl&#10;searchser&#9;PSI&#9;JAVA://com.wpl.bidding.service.SearchServiceImpl&#10;SearchService&#9;PSI&#9;JAVA://com.wpl.bidding.service.SearchService&#10;view-registr&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/views/jsp/view-registry-list.jsp&#10;restte&#9;PSI&#9;JAVA://org.springframework.web.client.RestTemplate&#10;logincont&#9;PSI&#9;JAVA://com.wpl.bidding.controller.LoginController&#10;LoginService&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/BiddingProjectMicroServices/src/main/java/com/wpl/bidding/service/LoginService.java&#10;registryser&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/bidding_project/src/main/java/com/wpl/bidding/service/RegistryService.java&#10;registryService&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/bidding_project/src/main/java/com/wpl/bidding/service/RegistryServiceImpl.java&#10;route&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/BiddingProjectMicroServices/src/main/java/com/wpl/bidding/common/Route.java&#10;pro&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/views/jsp/products.jsp&#10;inventorycon&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/bidding_project/src/main/java/com/wpl/bidding/controller/InventoryController.java&#10;create&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/views/jsp/createRegistry.jsp&#10;regis&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/java/com/bidding/web/controller/RegistryController.java&#10;user-home&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/views/jsp/user-home-page.jsp&#10;registrycar&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/views/jsp/registryCart.jsp&#10;registr&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/java/com/bidding/web/controller/RegistryController.java&#10;login&#9;FILE&#9;file:///Users/snehachandra/Downloads/WPL_FiNAL_PROJECT/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/views/jsp/login.jsp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/backup" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wpl.gift.model" />
+      <recent name="com.wpl.bidding.model" />
+      <recent name="com.bidding.web.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BiddingProjectMicroServices/src/main/java/com/wpl/bidding/controller" />
+      <recent name="$PROJECT_DIR$/BiddingProjectMicroServices/src/main/java/com/wpl/bidding/service" />
+      <recent name="$PROJECT_DIR$/biddingFrontEndWPLMain/src/main/webapp/WEB-INF/views/jsp" />
+      <recent name="$PROJECT_DIR$/biddingFrontEndWPLMain/src/main/java/com/bidding/web/controller" />
+      <recent name="$PROJECT_DIR$/BiddingProjectMicroServices/src/main/java/com/wpl/bidding/model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TomEE Server.frontend">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BiddingProject (2)" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="frontend" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 7.0.68" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="https://localhost:8443" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="WishProjectFront:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_WPL_FiNAL_PROJECT_5" />
+        <option name="HTTPS_PORT" value="8443" />
+        <option name="JNDI_PORT" value="2099" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53664" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="WishProjectFront:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="webservices" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M263" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:9080/wishmicro/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="WishProjectMicro:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/wishmicro" />
+          </settings>
+        </artifact>
+        <artifact name="WishProjectWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/wishweb" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_WPL_FiNAL_PROJECT_2" />
+        <option name="HTTPS_PORT" value="9443" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61988" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="WishProjectMicro:war exploded" />
+          <artifact name="WishProjectWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="TomEE Server.frontend" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.webservices" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9938129-04fa-4d05-b97f-34826317f1da" name="Default" comment="" />
+      <created>1511842097803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511842097803</updated>
+      <workItem from="1511842099106" duration="258000" />
+      <workItem from="1511842382175" duration="985000" />
+      <workItem from="1511881078052" duration="657000" />
+      <workItem from="1511902619633" duration="1678000" />
+      <workItem from="1511904666055" duration="205000" />
+      <workItem from="1511905040771" duration="367000" />
+      <workItem from="1511905426089" duration="2605000" />
+      <workItem from="1512002322249" duration="182000" />
+      <workItem from="1512151032858" duration="1545000" />
+      <workItem from="1512152828755" duration="5000" />
+      <workItem from="1512152848283" duration="178000" />
+      <workItem from="1512154549011" duration="300000" />
+      <workItem from="1512170625497" duration="7649000" />
+      <workItem from="1512193622421" duration="5449000" />
+      <workItem from="1512228568484" duration="27671000" />
+      <workItem from="1512290157543" duration="9951000" />
+      <workItem from="1512323571613" duration="14959000" />
+      <workItem from="1512349329052" duration="17220000" />
+      <workItem from="1512368927352" duration="4707000" />
+      <workItem from="1512409861766" duration="39966000" />
+      <workItem from="1512482866291" duration="2935000" />
+      <workItem from="1512490786784" duration="1350000" />
+      <workItem from="1512492914198" duration="13968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="154790000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59452736" sideWeight="0.5071531" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33830845" sideWeight="0.49284694" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48383084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59577113" sideWeight="0.5114449" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3345771" sideWeight="0.48855507" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48383084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/ViewRegistryController.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/ViewRegistryController.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/utils/MemCacheUtils.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDaoImpl.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDaoImpl.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>209</line>
+          <properties />
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>210</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
+          <line>211</line>
+          <properties />
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDaoImpl.java</url>
+          <line>136</line>
+          <properties />
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDaoImpl.java</url>
+          <line>139</line>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/UserInfoController.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/UserInfoController.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/UserInfoController.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/UserInfoController.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="232" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="e#1602#1623#0" expanded="true" />
+            <element signature="e#2239#2260#0" expanded="true" />
+            <marker date="1512496876000" expanded="true" signature="893:987" ph="INSERT INTO PRODUCT... " />
+            <marker date="1512496876000" expanded="true" signature="1316:1353" ph="UPDATE PRODU... " />
+            <marker date="1512496876000" expanded="true" signature="1709:1749" ph="SELECT * FRO... PRODUCT" />
+            <marker date="1512496876000" expanded="true" signature="2346:2525" ph="SELECT p.id,... PRODUCT" />
+            <marker date="1512496876000" expanded="true" signature="3519:3708" ph="SELECT p.id,... PRODUCT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/LoginDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-581">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <marker date="1512496876000" expanded="true" signature="992:1029" ph="SELECT * FRO... USER" />
+            <marker date="1512496876000" expanded="true" signature="1436:1473" ph="SELECT * FRO... USER" />
+            <marker date="1512496876000" expanded="true" signature="1801:1838" ph="SELECT * FRO... USER" />
+            <marker date="1512496876000" expanded="true" signature="2064:2171" ph="INSERT INTO USER... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/InventoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/utils/MemCacheUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="92" lean-forward="false" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-inventory.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#320#341#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/registryCart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#1189#1210#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/user-profile.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/edit-user-profile.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/InventoryModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/Route.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/InventoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/InventoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/Route.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/Route.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/SearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="36" column="49" lean-forward="false" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/SearchDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/SearchDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <marker date="1512503422000" expanded="true" signature="1836:2117" ph="SELECT p.id,... PRODUCT" />
+            <marker date="1512503422000" expanded="true" signature="1836:2118" ph="SELECT p.id,... PRODUCT" />
+            <marker date="1512503422000" expanded="true" signature="1836:2211" ph="SELECT p.id,... PRODUCT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="60" column="13" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/SearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/ViewRegistryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/UserInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1915">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="64" column="40" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/UserInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/userList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding>
+            <marker date="1512498673000" expanded="true" signature="1156:1213" ph="SELECT * FRO... Registry" />
+            <marker date="1512498673000" expanded="true" signature="1714:1795" ph="INSERT INTO REGISTRY_ITEM... " />
+            <marker date="1512498673000" expanded="true" signature="2221:2270" ph="INSERT INTO SHARED... " />
+            <marker date="1512498673000" expanded="true" signature="2702:2807" ph="SELECT r.id,... REGISTRY" />
+            <marker date="1512498673000" expanded="true" signature="3423:3676" ph="SELECT r.id,... REGISTRY_ITEM" />
+            <marker date="1512498673000" expanded="true" signature="4299:4626" ph="SELECT r.id,... REGISTRY" />
+            <marker date="1512498673000" expanded="true" signature="5253:5506" ph="SELECT r.id,... REGISTRY_ITEM" />
+            <marker date="1512498673000" expanded="true" signature="6601:6854" ph="SELECT r.id,... REGISTRY_ITEM" />
+            <marker date="1512498673000" expanded="true" signature="7443:7492" ph="UPDATE REGIS... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding>
+            <marker date="1512500071000" expanded="true" signature="954:985" ph="SELECT * FRO... USER" />
+            <marker date="1512500071000" expanded="true" signature="1283:1342" ph="UPDATE USER " />
+            <marker date="1512500071000" expanded="true" signature="1481:1512" ph="SELECT * FRO... USER" />
+            <marker date="1512500071000" expanded="true" signature="1879:1914" ph="SELECT * FRO... USER" />
+            <marker date="1512500071000" expanded="true" signature="2300:2350" ph="SELECT * FRO... USER" />
+            <marker date="1512500071000" expanded="true" signature="2484:2527" ph="UPDATE USER " />
+            <marker date="1512500071000" expanded="true" signature="2958:2976" ph="SELECT * FRO... USER" />
+            <marker date="1512500071000" expanded="true" signature="2958:2998" ph="SELECT * FRO... USER" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2301">
+          <caret line="216" column="16" lean-forward="false" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_admin-header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_user-header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="57" column="101" lean-forward="false" selection-start-line="57" selection-start-column="101" selection-end-line="57" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/UserInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/RegistryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/add-inventory.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/products.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+          <folding>
+            <marker date="1512510647000" expanded="false" signature="6710:6722" ph="..." />
+            <marker date="1512510647000" expanded="false" signature="6861:6895" ph="..." />
+            <marker date="1512510647000" expanded="false" signature="7056:7076" ph="..." />
+            <marker date="1512510647000" expanded="false" signature="7795:7815" ph="..." />
+            <marker date="1512510647000" expanded="false" signature="8578:8598" ph="..." />
+            <marker date="1512510647000" expanded="false" signature="9793:9813" ph="..." />
+            <marker date="1512510647000" expanded="false" signature="10944:10978" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>WishProjectFront:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WishProjectFront</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
