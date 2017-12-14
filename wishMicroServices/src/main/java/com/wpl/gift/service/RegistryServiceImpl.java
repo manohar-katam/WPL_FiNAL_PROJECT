@@ -15,7 +15,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * Author Sneha
+ * Author: Manohar
  */
 @Service("registryService")
 @Transactional

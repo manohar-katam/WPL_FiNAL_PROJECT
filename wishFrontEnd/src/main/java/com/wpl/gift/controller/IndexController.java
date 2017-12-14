@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
 /**
- * Author Sneha
+ * Author Manohar
  */
 @Controller
 public class IndexController {

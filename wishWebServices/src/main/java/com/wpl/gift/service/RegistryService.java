@@ -4,7 +4,7 @@ package com.wpl.gift.service;
 import com.wpl.gift.model.*;
 import org.springframework.stereotype.Component;
 /**
- *  Author Sneha
+ *  Author Sneha, Manohar
  */
 @Component
 public interface RegistryService {

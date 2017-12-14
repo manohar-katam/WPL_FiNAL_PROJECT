@@ -1,7 +1,7 @@
 package com.wpl.gift.model;
 
 /**
- * Author Sneha
+ * Author Manohar
  */
 public class ProductModel {
     private Response response;

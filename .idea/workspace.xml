@@ -6,7 +6,57 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9938129-04fa-4d05-b97f-34826317f1da" name="Default" comment="" />
+    <list default="true" id="e9938129-04fa-4d05-b97f-34826317f1da" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wishFrontEnd/login-error.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/ConstantMessages.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/ConstantMessages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/Route.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/Route.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/IndexController.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/IndexController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/ViewRegistryController.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/ViewRegistryController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Product.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Product.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/ProductModel.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/ProductModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Registry.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Registry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryItem.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryListModel.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryListModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryModel.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Response.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Response.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/utils/MemCacheUtils.java" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/utils/MemCacheUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/admin-home-page.jsp" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/admin-home-page.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/index.jsp" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/login-error.jsp" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/login-error.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/login.jsp" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/logout.jsp" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/logout.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/register.jsp" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/register.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/user-home-page.jsp" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/user-home-page.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-shared-registry-list.jsp" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-shared-registry-list.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-shared-registry.jsp" afterPath="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-shared-registry.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/ConstantMessages.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/ConstantMessages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/Route.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/Route.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDao.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDaoImpl.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDaoImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDao.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/InventoryModel.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/InventoryModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/Registry.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/Registry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryItem.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryListModel.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryListModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryModel.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryService.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java" afterPath="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/ConstantMessages.java" afterPath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/ConstantMessages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/Route.java" afterPath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/Route.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/RegistryController.java" afterPath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/RegistryController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/Registry.java" afterPath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/Registry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryItem.java" afterPath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryListModel.java" afterPath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryListModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryModel.java" afterPath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryService.java" afterPath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java" afterPath="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/BiddingProjectMicroServices/target/" />
     <ignored path="$PROJECT_DIR$/biddingFrontEndWPLMain/target/" />
     <ignored path="$PROJECT_DIR$/bidding_project/target/" />
@@ -32,79 +82,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="products.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/products.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
-              <folding>
-                <marker date="1512510647000" expanded="false" signature="6710:6722" ph="..." />
-                <marker date="1512510647000" expanded="false" signature="6861:6895" ph="..." />
-                <marker date="1512510647000" expanded="false" signature="7056:7076" ph="..." />
-                <marker date="1512510647000" expanded="false" signature="7795:7815" ph="..." />
-                <marker date="1512510647000" expanded="false" signature="8578:8598" ph="..." />
-                <marker date="1512510647000" expanded="false" signature="9793:9813" ph="..." />
-                <marker date="1512510647000" expanded="false" signature="10944:10978" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add-inventory.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/add-inventory.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegistryController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/RegistryController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-156">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegistryServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding>
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1034#1035#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegistryDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-              <folding>
-                <marker date="1512498673000" expanded="true" signature="1156:1213" ph="SELECT * FRO... Registry" />
-                <marker date="1512498673000" expanded="true" signature="1714:1795" ph="INSERT INTO REGISTRY_ITEM... " />
-                <marker date="1512498673000" expanded="true" signature="2221:2270" ph="INSERT INTO SHARED... " />
-                <marker date="1512498673000" expanded="true" signature="2702:2807" ph="SELECT r.id,... REGISTRY" />
-                <marker date="1512498673000" expanded="true" signature="3423:3676" ph="SELECT r.id,... REGISTRY_ITEM" />
-                <marker date="1512498673000" expanded="true" signature="4299:4626" ph="SELECT r.id,... REGISTRY" />
-                <marker date="1512498673000" expanded="true" signature="5253:5506" ph="SELECT r.id,... REGISTRY_ITEM" />
-                <marker date="1512498673000" expanded="true" signature="6601:6854" ph="SELECT r.id,... REGISTRY_ITEM" />
-                <marker date="1512498673000" expanded="true" signature="7443:7492" ph="UPDATE REGIS... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -149,6 +127,9 @@
       <find>item</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -157,57 +138,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/InventoryModel.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Login.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/LoginBean.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Product.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/ProductModel.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistrationBean.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Registry.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryItem.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryListModel.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryModel.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Response.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/User.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/UserListModel.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/UserModel.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/utils/EncryptionUtils.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/utils/SendMail.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/LoginDaoImpl.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDaoImpl.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/utils/MemCacheUtils.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/userList.jsp" />
-        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/UserInfoController.java" />
-        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/UserService.java" />
-        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/UserInfoController.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/UserService.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/index.jsp" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/registryCart.jsp" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/user-profile.jsp" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/edit-user-profile.jsp" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Filter.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/Route.java" />
-        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/SearchService.java" />
-        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/Route.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/Route.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/SearchService.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/SearchServiceImpl.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/SearchDao.java" />
-        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/SearchDaoImpl.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/SearchController.java" />
-        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/SearchServiceImpl.java" />
         <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/SearchController.java" />
         <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/SearchController.java" />
-        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java" />
         <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_admin-header.jsp" />
         <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_user-header.jsp" />
         <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/products.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/Route.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/ConstantMessages.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/ViewRegistryController.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Product.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/ProductModel.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Registry.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryModel.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Response.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryItem.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/RegistryListModel.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/utils/MemCacheUtils.java" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/admin-home-page.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/login-error.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/logout.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/register.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/user-home-page.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-shared-registry-list.jsp" />
+        <option value="$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-shared-registry.jsp" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/ConstantMessages.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/Route.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDaoImpl.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDao.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDao.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/InventoryModel.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/Product.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/Registry.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryItem.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryListModel.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryModel.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryService.java" />
+        <option value="$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/ConstantMessages.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/Route.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/RegistryController.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/Registry.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryItem.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryListModel.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryModel.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryService.java" />
+        <option value="$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -226,43 +207,15 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="FrontEnd" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="FrontEnd" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="MicroServices" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="MicroServices" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebServices" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebServices" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="824" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
@@ -278,53 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
-              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
-              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
-              <item name="src/main" type="cbb8eebc:String" user="src/main" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
-              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
-              <item name="src/main" type="cbb8eebc:String" user="src/main" />
-              <item name="webapp" type="cbb8eebc:String" user="webapp" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
-              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
-              <item name="src/main" type="cbb8eebc:String" user="src/main" />
-              <item name="webapp" type="cbb8eebc:String" user="webapp" />
-              <item name="WEB-INF" type="cbb8eebc:String" user="WEB-INF" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WishProjectFront" type="cbb8eebc:String" user="WishProjectFront" />
-              <item name="wishFrontEnd" type="cbb8eebc:String" user="wishFrontEnd" />
-              <item name="src/main" type="cbb8eebc:String" user="src/main" />
-              <item name="webapp" type="cbb8eebc:String" user="webapp" />
-              <item name="WEB-INF" type="cbb8eebc:String" user="WEB-INF" />
-              <item name="views/jsp" type="cbb8eebc:String" user="views/jsp" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -341,8 +247,55 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectWeb" type="cbb8eebc:String" user="WishProjectWeb" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectWeb" type="cbb8eebc:String" user="WishProjectWeb" />
+              <item name="wishWebServices" type="cbb8eebc:String" user="wishWebServices" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectWeb" type="cbb8eebc:String" user="WishProjectWeb" />
+              <item name="wishWebServices" type="cbb8eebc:String" user="wishWebServices" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectWeb" type="cbb8eebc:String" user="WishProjectWeb" />
+              <item name="wishWebServices" type="cbb8eebc:String" user="wishWebServices" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectWeb" type="cbb8eebc:String" user="WishProjectWeb" />
+              <item name="wishWebServices" type="cbb8eebc:String" user="wishWebServices" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+              <item name="com/wpl/gift" type="cbb8eebc:String" user="com/wpl/gift" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WishProjectWeb" type="cbb8eebc:String" user="WishProjectWeb" />
+              <item name="wishWebServices" type="cbb8eebc:String" user="wishWebServices" />
+              <item name="src/main" type="cbb8eebc:String" user="src/main" />
+              <item name="java" type="cbb8eebc:String" user="java" />
+              <item name="com/wpl/gift" type="cbb8eebc:String" user="com/wpl/gift" />
+              <item name="service" type="cbb8eebc:String" user="service" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -677,11 +630,13 @@
       <workItem from="1512482866291" duration="2935000" />
       <workItem from="1512490786784" duration="1350000" />
       <workItem from="1512492914198" duration="13968000" />
+      <workItem from="1513107795839" duration="280000" />
+      <workItem from="1513220024334" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154790000" />
+    <option name="totallyTimeSpent" value="156508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -693,34 +648,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59452736" sideWeight="0.5071531" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.080937974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33830845" sideWeight="0.49284694" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33830845" sideWeight="0.49284694" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21104388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -728,7 +679,10 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48383084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -736,9 +690,9 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59577113" sideWeight="0.5114449" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59452736" sideWeight="0.5071531" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.080937974" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -746,7 +700,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3345771" sideWeight="0.48855507" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33830845" sideWeight="0.49284694" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="simpleUML" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -756,12 +710,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21104388" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48383084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -791,7 +745,7 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/utils/MemCacheUtils.java</url>
-          <line>61</line>
+          <line>65</line>
           <properties />
           <option name="timeStamp" value="184" />
         </line-breakpoint>
@@ -815,19 +769,19 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java</url>
-          <line>120</line>
+          <line>122</line>
           <properties />
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java</url>
-          <line>124</line>
+          <line>126</line>
           <properties />
           <option name="timeStamp" value="200" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java</url>
-          <line>134</line>
+          <line>136</line>
           <properties />
           <option name="timeStamp" value="201" />
         </line-breakpoint>
@@ -911,25 +865,25 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java</url>
-          <line>98</line>
+          <line>100</line>
           <properties />
           <option name="timeStamp" value="221" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
-          <line>209</line>
+          <line>212</line>
           <properties />
           <option name="timeStamp" value="223" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
-          <line>210</line>
+          <line>213</line>
           <properties />
           <option name="timeStamp" value="224" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java</url>
-          <line>211</line>
+          <line>214</line>
           <properties />
           <option name="timeStamp" value="225" />
         </line-breakpoint>
@@ -982,470 +936,430 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/admin-home-page.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding>
-            <element signature="e#1602#1623#0" expanded="true" />
-            <element signature="e#2239#2260#0" expanded="true" />
-            <marker date="1512496876000" expanded="true" signature="893:987" ph="INSERT INTO PRODUCT... " />
-            <marker date="1512496876000" expanded="true" signature="1316:1353" ph="UPDATE PRODU... " />
-            <marker date="1512496876000" expanded="true" signature="1709:1749" ph="SELECT * FRO... PRODUCT" />
-            <marker date="1512496876000" expanded="true" signature="2346:2525" ph="SELECT p.id,... PRODUCT" />
-            <marker date="1512496876000" expanded="true" signature="3519:3708" ph="SELECT p.id,... PRODUCT" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/LoginDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-581">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <marker date="1512496876000" expanded="true" signature="992:1029" ph="SELECT * FRO... USER" />
-            <marker date="1512496876000" expanded="true" signature="1436:1473" ph="SELECT * FRO... USER" />
-            <marker date="1512496876000" expanded="true" signature="1801:1838" ph="SELECT * FRO... USER" />
-            <marker date="1512496876000" expanded="true" signature="2064:2171" ph="INSERT INTO USER... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/InventoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/utils/MemCacheUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-190">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="56" column="36" lean-forward="false" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="92" lean-forward="false" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-inventory.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#320#341#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/registryCart.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#1189#1210#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/user-profile.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/edit-user-profile.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Inventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/InventoryModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/model/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/common/Route.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/InventoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/InventoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/Route.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/Route.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/SearchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/SearchServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="36" column="49" lean-forward="false" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/SearchDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/SearchDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding>
-            <marker date="1512503422000" expanded="true" signature="1836:2117" ph="SELECT p.id,... PRODUCT" />
-            <marker date="1512503422000" expanded="true" signature="1836:2118" ph="SELECT p.id,... PRODUCT" />
-            <marker date="1512503422000" expanded="true" signature="1836:2211" ph="SELECT p.id,... PRODUCT" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/SearchController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="60" column="13" lean-forward="false" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/SearchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/SearchServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="40" column="30" lean-forward="false" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/SearchController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="28" column="59" lean-forward="false" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/SearchController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/ViewRegistryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/UserInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1915">
-          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="64" column="40" lean-forward="false" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/UserInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/userList.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-          <folding>
-            <marker date="1512498673000" expanded="true" signature="1156:1213" ph="SELECT * FRO... Registry" />
-            <marker date="1512498673000" expanded="true" signature="1714:1795" ph="INSERT INTO REGISTRY_ITEM... " />
-            <marker date="1512498673000" expanded="true" signature="2221:2270" ph="INSERT INTO SHARED... " />
-            <marker date="1512498673000" expanded="true" signature="2702:2807" ph="SELECT r.id,... REGISTRY" />
-            <marker date="1512498673000" expanded="true" signature="3423:3676" ph="SELECT r.id,... REGISTRY_ITEM" />
-            <marker date="1512498673000" expanded="true" signature="4299:4626" ph="SELECT r.id,... REGISTRY" />
-            <marker date="1512498673000" expanded="true" signature="5253:5506" ph="SELECT r.id,... REGISTRY_ITEM" />
-            <marker date="1512498673000" expanded="true" signature="6601:6854" ph="SELECT r.id,... REGISTRY_ITEM" />
-            <marker date="1512498673000" expanded="true" signature="7443:7492" ph="UPDATE REGIS... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-          <folding>
-            <marker date="1512500071000" expanded="true" signature="954:985" ph="SELECT * FRO... USER" />
-            <marker date="1512500071000" expanded="true" signature="1283:1342" ph="UPDATE USER " />
-            <marker date="1512500071000" expanded="true" signature="1481:1512" ph="SELECT * FRO... USER" />
-            <marker date="1512500071000" expanded="true" signature="1879:1914" ph="SELECT * FRO... USER" />
-            <marker date="1512500071000" expanded="true" signature="2300:2350" ph="SELECT * FRO... USER" />
-            <marker date="1512500071000" expanded="true" signature="2484:2527" ph="UPDATE USER " />
-            <marker date="1512500071000" expanded="true" signature="2958:2976" ph="SELECT * FRO... USER" />
-            <marker date="1512500071000" expanded="true" signature="2958:2998" ph="SELECT * FRO... USER" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/java/com/wpl/gift/controller/RegistryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2301">
-          <caret line="216" column="16" lean-forward="false" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding>
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1034#1035#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_admin-header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/_user-header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="57" column="101" lean-forward="false" selection-start-line="57" selection-start-column="101" selection-end-line="57" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/UserInfoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/RegistryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/add-inventory.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/products.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/login-error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/logout.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/register-error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/user-home-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-inventory.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-registry-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-registry.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-shared-registry-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishFrontEnd/src/main/webapp/WEB-INF/views/jsp/view-shared-registry.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/ConstantMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/common/Route.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/InventoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/controller/RegistryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/EditRegistryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/EditRegistryDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
-            <marker date="1512510647000" expanded="false" signature="6710:6722" ph="..." />
-            <marker date="1512510647000" expanded="false" signature="6861:6895" ph="..." />
-            <marker date="1512510647000" expanded="false" signature="7056:7076" ph="..." />
-            <marker date="1512510647000" expanded="false" signature="7795:7815" ph="..." />
-            <marker date="1512510647000" expanded="false" signature="8578:8598" ph="..." />
-            <marker date="1512510647000" expanded="false" signature="9793:9813" ph="..." />
-            <marker date="1512510647000" expanded="false" signature="10944:10978" ph="..." />
+            <marker date="1512495174000" expanded="true" signature="620:655" ph="DELETE FROM " />
+            <marker date="1512495174000" expanded="true" signature="892:973" ph="INSERT INTO REGISTRY_ITEM... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <marker date="1513220696896" expanded="true" signature="920:1014" ph="INSERT INTO PRODUCT... " />
+            <marker date="1513220696896" expanded="true" signature="1343:1380" ph="UPDATE PRODU... " />
+            <marker date="1513220696896" expanded="true" signature="1736:1776" ph="SELECT * FRO... PRODUCT" />
+            <marker date="1513220696896" expanded="true" signature="2373:2552" ph="SELECT p.id,... PRODUCT" />
+            <marker date="1513220696896" expanded="true" signature="3546:3735" ph="SELECT p.id,... PRODUCT" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <marker date="1513220696838" expanded="true" signature="1182:1239" ph="SELECT * FRO... Registry" />
+            <marker date="1513220696838" expanded="true" signature="1740:1821" ph="INSERT INTO REGISTRY_ITEM... " />
+            <marker date="1513220696838" expanded="true" signature="2247:2296" ph="INSERT INTO SHARED... " />
+            <marker date="1513220696838" expanded="true" signature="2728:2833" ph="SELECT r.id,... REGISTRY" />
+            <marker date="1513220696838" expanded="true" signature="3449:3702" ph="SELECT r.id,... REGISTRY_ITEM" />
+            <marker date="1513220696838" expanded="true" signature="4325:4652" ph="SELECT r.id,... REGISTRY" />
+            <marker date="1513220696838" expanded="true" signature="5279:5532" ph="SELECT r.id,... REGISTRY_ITEM" />
+            <marker date="1513220696838" expanded="true" signature="6627:6880" ph="SELECT r.id,... REGISTRY_ITEM" />
+            <marker date="1513220696838" expanded="true" signature="7469:7518" ph="UPDATE REGIS... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/RegistryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/dao/InventoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/InventoryModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/ItemRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/ProductModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/Registry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryListModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/model/RegistryItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/InventoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/InventoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishMicroServices/src/main/java/com/wpl/gift/utils/EncryptionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/ConstantMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/common/Route.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/InventoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/controller/RegistryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/InventoryModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/Registry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryListModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/model/RegistryModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/InventoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wishWebServices/src/main/java/com/wpl/gift/service/RegistryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 /**
- * Author Sneha
+ * Author: Manohar
  */
 
 public interface RegistryService {

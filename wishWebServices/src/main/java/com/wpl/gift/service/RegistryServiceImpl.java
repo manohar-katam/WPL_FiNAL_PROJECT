@@ -7,7 +7,7 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponentsBuilder;
 /**
- *  Author Sneha
+ *  Author Sneha, Manohar
  */
 @Service("registryService")
 @Transactional

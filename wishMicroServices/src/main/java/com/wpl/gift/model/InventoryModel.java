@@ -1,7 +1,9 @@
 package com.wpl.gift.model;
 
 import java.util.List;
-
+/**
+ * Author: Manohar
+ */
 public class InventoryModel {
 
     private Response response;

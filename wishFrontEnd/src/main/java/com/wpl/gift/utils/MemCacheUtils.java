@@ -9,6 +9,10 @@ import com.wpl.gift.model.User;
 import com.whalin.MemCached.MemCachedClient;
 import com.whalin.MemCached.SockIOPool;
 
+/**
+ * Author Manohar
+ */
+
 public class MemCacheUtils	 {
 
 	//private static final Logger logger = LogManager.getLogger(MemCacheUtil.class);

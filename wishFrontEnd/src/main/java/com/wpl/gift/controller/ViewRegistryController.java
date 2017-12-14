@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 
 /**
- * Author Sneha
+ * Author Manohar, Sneha
  */
 @Controller
 public class ViewRegistryController {

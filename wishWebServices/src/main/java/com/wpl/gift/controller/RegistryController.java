@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.sql.SQLException;
 
 /**
- *  Author Sneha
+ *  Author Manohar
  */
 @Controller
 public class RegistryController {

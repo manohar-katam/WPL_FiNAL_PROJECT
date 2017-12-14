@@ -2,7 +2,7 @@
 package com.wpl.gift.common;
 
 /**
- * Author Sneha
+ * Author Sneha,  Manohar
  */
 public class ConstantMessages {
 	public static final String successCode="B200";
@@ -16,7 +16,6 @@ public class ConstantMessages {
 	public static final String updateProfileMessage = "Profile has been updated Successfully";
 	public static final String googleAPIKEY = "AIzaSyBoU_9-AlpX4jSS-Y35oZSjlplvohjDbns";
 	public static final String noSearchKeyword = "No such Keyword found";
-	public static final String LargerValue = "Bid value should be greater than price";
 	public static final String ItemADD = "RegistryItem added successfully!!";
 	public static final String Empty = "Empty :(";
 }

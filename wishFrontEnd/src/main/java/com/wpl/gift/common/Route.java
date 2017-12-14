@@ -2,7 +2,7 @@
 package com.wpl.gift.common;
 
 /**
- * Author Sneha
+ * Author Sneha, Manohar, Kartheek
  */
 public class Route {
 
@@ -27,10 +27,10 @@ public class Route {
 	public static String viewSharedRegistry = "/viewSharedRegistry";
 	public static String selfAssign = "/selfAssign";
 
-	public  static String  passwordChange = "/passwordChange";
-	public  static  String  getUserInfo = "/getUserInfo";
-	public  static  String  updateUserInfo = "/updateUserInfo";
-	public  static  String  resetPassword = "/resetpassword";
+	public static String  passwordChange = "/passwordChange";
+	public static String  getUserInfo = "/getUserInfo";
+	public static String  updateUserInfo = "/updateUserInfo";
+	public static String  resetPassword = "/resetpassword";
     public static String viewRegistryList="/viewRegistryList";
 	public static String viewSharedRegistryList="/viewSharedRegistryList";
     public static String filter ="/filter";

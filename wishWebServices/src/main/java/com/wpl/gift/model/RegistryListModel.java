@@ -2,7 +2,7 @@ package com.wpl.gift.model;
 
 import java.util.List;
 /**
- *  Author Sneha
+ *  Author Sneha, Manohar
  */
 public class RegistryListModel {
     private Response response;

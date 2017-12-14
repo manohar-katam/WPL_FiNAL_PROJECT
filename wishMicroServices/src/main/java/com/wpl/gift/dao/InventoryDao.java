@@ -6,7 +6,9 @@ import org.springframework.stereotype.Component;
 
 import java.sql.SQLException;
 import java.util.List;
-
+/**
+ * Author: Manohar
+ */
 @Component
 public interface InventoryDao {
     boolean addInventory(Inventory inventory);

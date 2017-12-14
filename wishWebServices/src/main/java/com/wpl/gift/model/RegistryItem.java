@@ -2,7 +2,7 @@
 package com.wpl.gift.model;
 
 /**
- *  Author Sneha
+ *  Author Sneha, Manohar
  */
 public class RegistryItem {
 

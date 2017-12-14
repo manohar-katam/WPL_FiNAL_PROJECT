@@ -15,6 +15,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Author: Manohar
+ */
 @Repository
 public class InventoryDaoImpl implements InventoryDao {
 

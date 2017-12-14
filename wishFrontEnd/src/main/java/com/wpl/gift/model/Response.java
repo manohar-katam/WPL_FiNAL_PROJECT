@@ -2,7 +2,7 @@
 package com.wpl.gift.model;
 
 /**
- * Author Sneha
+ * Author Manohar, Sneha
  */
 public class Response {
 

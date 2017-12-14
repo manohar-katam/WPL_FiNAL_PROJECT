@@ -3,7 +3,7 @@ package com.wpl.gift.model;
 import java.util.List;
 
 /**
- * Author Sneha
+ * Author: Manohar
  */
 public class Registry {
     private int id;

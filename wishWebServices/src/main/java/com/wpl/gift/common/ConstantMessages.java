@@ -1,6 +1,8 @@
 package com.wpl.gift.common;
 
-
+/**
+ * Author: Manohar, Sneha
+ */
 public class ConstantMessages {
 	
 	public static final String loginSuccessMessage = "Login Successful";
